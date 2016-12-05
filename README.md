@@ -25,4 +25,4 @@ module:{
 ```
 Now, enjoy yourself.
 
-Here is my person blog(https://blog.yvanwang.com).
+Here is my [person blog](https://blog.yvanwang.com).
