@@ -5,7 +5,10 @@ A light icon package
 ##How to use.
 
 ###First
+
+```
 npm install --save LightIcon
+```
 
 ###Second
 Modify your webpack.config.js, add this config:
