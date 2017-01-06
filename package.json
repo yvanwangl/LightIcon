@@ -1,6 +1,6 @@
 {
   "name": "lighticon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A light icon package",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "less": "^2.7.1",
-    "svg-react-loader": "^0.3.7"
+    "svg-react-loader": "^0.3.7",
+	"babel-core": "^6.5.2"
   }
 }
