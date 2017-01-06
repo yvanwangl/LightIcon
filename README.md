@@ -7,7 +7,7 @@ A light icon package
 ###First
 
 ```
-npm install --save LightIcon
+npm install --save lighticon
 ```
 
 ###Second
